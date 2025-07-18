@@ -1,0 +1,7 @@
+Flask
+pandas
+requests
+chromadb==0.4.15
+sentence-transformers
+google-generativeai
+gunicorn
